@@ -1,0 +1,17 @@
+
+Date: 19/09/2020
+Install angular cli:
+npm install -g @angular/cli
+Link angular cli:
+npm link @angular/cli
+Add ng to the path:
+export PATH="$HOME/.npm-global/bin:$PATH"
+Create a new angular project:
+ng new my-app
+Go to the project:
+cd my-project
+Run the project on browser:
+ng serve --open 
+
+
+
